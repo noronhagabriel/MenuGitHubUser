@@ -31,8 +31,9 @@ Veja as informações no console!
 1. Consultar usuário do GitHub
 
 0. Sair
-Escolha uma opção: 1
 
+
+Escolha uma opção: 1
 
 Digite o nome do seu usuário no GitHub: noronhagabriel
 
