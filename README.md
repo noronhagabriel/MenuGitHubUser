@@ -32,6 +32,7 @@ Veja as informações no console!
 
 0. Sair
 Escolha uma opção: 1
+
 Digite o nome do seu usuário no GitHub: noronhagabriel
 
 UsuarioGitHub {login= noronhagabriel, id=187660846, ...}
