@@ -33,5 +33,5 @@ Veja as informações no console!
 Escolha uma opção: 1
 Digite o nome do seu usuário no GitHub: noronhagabriel
 
-UsuarioGitHub{login= noronhagabriel, id=187660846, ...}
+UsuarioGitHub {login= noronhagabriel, id=187660846, ...}
 
