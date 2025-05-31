@@ -29,6 +29,7 @@ Veja as informações no console!
 ## 📋 Exemplo de Uso
 ===== MENU GITHUB USER =====
 1. Consultar usuário do GitHub
+
 0. Sair
 Escolha uma opção: 1
 Digite o nome do seu usuário no GitHub: noronhagabriel
