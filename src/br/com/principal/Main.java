@@ -1,4 +1,4 @@
-*.java text eol=crlf
+
 package br.com.principal;
 
 import br.com.modelos.TituloOmdb;
