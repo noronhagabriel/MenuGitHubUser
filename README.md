@@ -1,32 +1,37 @@
-# 📘 Consulta de Usuário GitHub 
-Este projeto é uma aplicação simples em Java que permite consultar informações de um usuário do GitHub utilizando a API pública do GitHub. Os dados retornados são exibidos no console em formato organizado, utilizando a biblioteca Gson para desserialização do JSON.
+# 📘 GitHub User Lookup
+This project is a simple Java application that allows you to query information about a GitHub user using GitHub's public API. The returned data is displayed in the console in an organized format, using the Gson library to deserialize the JSON.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 Java 11+
 
-API HTTP Client (Java 11)
+Java HTTP Client (Java 11)
 
-Biblioteca Gson para manipulação de JSON
+Gson library for JSON handling
 
-API REST do GitHub
+GitHub REST API
 
-## 📦 Dependências
-Para funcionar corretamente, você precisa adicionar a biblioteca Gson ao seu projeto. Se estiver usando Maven, adicione ao pom.xml:
 
-## 🧪 Como Usar
-Compile o projeto:
+## 📦 Dependencies
+To work properly, you need to add the Gson library to your project.
+If you're using Maven, add this to your pom.xml:
+
+
+
+## 🧪  How to Use
+Compile the project:
 javac -cp ".;path/to/gson.jar" br/com/principal/Main.java
 
-Execute a aplicação:
+Run the application:
 java -cp ".;path/to/gson.jar" br.com.principal.Main
 
-Escolha a opção 1 para consultar um usuário do GitHub.
+Choose option 1 to query a GitHub user
 
-Digite o nome do usuário.
+Enter the username
 
-Veja as informações no console!
+View the user's information in the console
 
-## 📋 Exemplo de Uso
+
+## Example
 ===== MENU GITHUB USER =====
 1. Consultar usuário do GitHub
 
